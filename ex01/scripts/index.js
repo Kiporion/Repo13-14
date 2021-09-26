@@ -1,3 +1,5 @@
+// Disclaimer: Most of the script and basis for html & css files have been taken from various sites such as stackoverflow, youtube and others.
+
 var items = document.getElementsByClassName("item");
 var title = document.getElementsByClassName("title");
 var modal = document.getElementById("modal");
